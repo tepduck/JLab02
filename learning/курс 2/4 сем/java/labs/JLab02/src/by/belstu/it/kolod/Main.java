@@ -1,15 +1,14 @@
 package  by.belstu.it.kolod;
 
-import by.belstu.it.kolod.testFunc;
 
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        //TODO: add new  method
+        //TODO: add  import class
 
-        testFunc obj = new testFunc();
+        testFunc obj = new testFunc(2);
         obj.getValue();
-        //woah
+
     }
 }
