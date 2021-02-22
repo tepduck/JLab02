@@ -7,8 +7,5 @@ public class Main {
 	// write your code here
         //TODO: add  import class
 
-        testFunc obj = new testFunc(2);
-        obj.getValue();
-
     }
 }
